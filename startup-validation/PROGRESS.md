@@ -14,7 +14,8 @@
 - [x] Phase 3.5a: Verification — done in-conversation (skipped formal agent run due to session limit pressure)
 - [x] Phase 3.5: Research Gate — YELLOW LIGHT, conditional go (founder approved with lightweight signal collection replacing live interviews; reinvestment policy noted)
 - [x] Phase 4: Strategy — 2026-05-28 (Lean Canvas + Positioning + Value Prop + Business Model + GTM)
-- [ ] Phase 5: Brand — in progress (strategy confirmed; founder traveling to US in ~1 month enables possible live interviews)
+- [x] Phase 5: Brand — 2026-05-28 (Mission/Vision/Values + Tone of Voice + Brand Personality)
+- [ ] Phase 6: Product — in progress
 - [ ] Phase 3.5a: Research Verification
 - [ ] Phase 3.5: Research Gate
 - [ ] Phase 4: Strategy
