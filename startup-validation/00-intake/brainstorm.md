@@ -212,3 +212,23 @@
 ## Sources
 - ידע כללי בקטגוריות productivity, ADHD apps, family logistics, shift work. **יאומת ב-Phase 3.**
 - Crunchbase data על Motion/Reclaim — בזיכרון, יאומת.
+
+---
+
+## החלטת המייסד (Convergence)
+
+**תאריך:** 2026-05-28
+**וריאציה נבחרת:** **V2 — Planny for ADHD Adults**
+
+**וריאציות שנפסלו:**
+- V5 (Shift Workers) — מורכבות גבוהה מדי.
+- V6 (Review Coach) — דורש לפרק UI קיים.
+- V8 (WhatsApp Agent) — דורש פיבוט מערוץ המובייל שכבר בנוי.
+- V3 (Freelancers) — תחרות ראש-בראש עם Motion.
+- V0 (לכולם) — anti-pattern, נפסל.
+
+**וריאציות שעוד יכלו להיות רלוונטיות:**
+- V1 (Working Parents) — נשארה כאופציית פיבוט במקרה ש-V2 לא מתאמתת.
+- V4 (Students) — WTP נמוך, פחות רלוונטית למודל מנוי.
+
+**שאלה פתוחה למייסד שטרם נענתה במלואה:** האם המייסד או אדם קרוב המאובחן ב-ADHD יכול לשמש כיועץ קבוע לפיתוח / customer discovery? זה משפיע על תכנון Phase 3 (customer voice) ו-Phase 6 (product MVP).

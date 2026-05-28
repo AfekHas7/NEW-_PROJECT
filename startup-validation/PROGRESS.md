@@ -8,8 +8,8 @@
 ## Phases
 
 - [x] Phase 1: Intake — 2026-05-28
-- [x] Phase 2: Brainstorm — 2026-05-28 (awaiting founder convergence decision)
-- [ ] Phase 2.5: Research Depth Assessment
+- [x] Phase 2: Brainstorm — 2026-05-28 (converged on V2: ADHD Adults)
+- [ ] Phase 2.5: Research Depth Assessment — awaiting founder selection
 - [ ] Phase 3: Market Research (Waves 1-4)
 - [ ] Phase 3.5a: Research Verification
 - [ ] Phase 3.5: Research Gate
