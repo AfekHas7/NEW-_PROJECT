@@ -9,8 +9,8 @@
 
 - [x] Phase 1: Intake — 2026-05-28
 - [x] Phase 2: Brainstorm — 2026-05-28 (converged on V2: ADHD Adults)
-- [ ] Phase 2.5: Research Depth Assessment — awaiting founder selection
-- [ ] Phase 3: Market Research (Waves 1-4)
+- [x] Phase 2.5: Research Depth Assessment — 2026-05-28 (Deep, score 7/9, user override to Deep)
+- [ ] Phase 3: Market Research (Waves 1-4) — Wave 1 in progress
 - [ ] Phase 3.5a: Research Verification
 - [ ] Phase 3.5: Research Gate
 - [ ] Phase 4: Strategy
@@ -27,5 +27,6 @@
 - Stage: 90% UI/UX complete, ~1 month to ship if validation positive.
 - Budget: $1,500 (not strictly capped).
 - Target markets: US first, then Israel.
-- Major intake red flags: zero customer validation, "boiling the ocean" target segment, minimal marketing budget for the category.
+- Major update (2026-05-28): Founder disclosed they have ADHD — Founder-Market Fit upgraded from Moderate to **Strong**. Positioning angle locked: "by an ADHD adult, for ADHD adults."
+- Research Depth: **Deep** (15 agents, 5-6 search rounds each) — selected by founder.
 - Three critical flags must be resolved during research / validation phases before any GO recommendation can be given.
