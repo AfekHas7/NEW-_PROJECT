@@ -12,8 +12,8 @@
 - [x] Phase 2.5: Research Depth Assessment — 2026-05-28 (Deep, score 7/9, user override to Deep)
 - [x] Phase 3: Market Research — Waves 1-4 complete (15 agents), synthesis complete
 - [x] Phase 3.5a: Verification — done in-conversation (skipped formal agent run due to session limit pressure)
-- [x] Phase 3.5: Research Gate — YELLOW LIGHT, awaiting founder decision on 3 conditions
-- [ ] Phase 4: Strategy
+- [x] Phase 3.5: Research Gate — YELLOW LIGHT, conditional go (founder approved with lightweight signal collection replacing live interviews; reinvestment policy noted)
+- [ ] Phase 4: Strategy — in progress
 - [ ] Phase 3.5a: Research Verification
 - [ ] Phase 3.5: Research Gate
 - [ ] Phase 4: Strategy
