@@ -17,7 +17,19 @@
 - [x] Phase 5: Brand — 2026-05-28 (Mission/Vision/Values + Tone of Voice + Brand Personality)
 - [x] Phase 6: Product — 2026-05-28 (MVP Definition + Feature Prioritization + User Journey)
 - [x] Phase 7: Financial — 2026-05-28 (Revenue Model + Cost Structure + Projections)
-- [ ] Phase 8: Validation — in progress
+- [x] Phase 8: Validation — 2026-05-28 (Playbook + Risk + Assumptions + Kill Criteria + Experiment Design + Scorecard 6.4/10 CONDITIONAL GO)
+- [x] Final Deliverable — 2026-05-28 (README.md + action-plan-30-days.md)
+
+## Final Verdict
+
+**Overall Score: 6.4 / 10 — CONDITIONAL GO**
+
+Three conditions for proceeding:
+1. Defer launch to post-WWDC June 8 with 3 pre-written launch versions
+2. Direct Google Calendar OAuth shipped in 3-4 weeks (Day 1 submission)
+3. Lightweight signal collection (waitlist + Reddit + creator DMs + US trip interviews)
+
+See `startup-validation/06-validation/scorecard.md` for full verdict + comparison framework for the other 2 startups.
 - [ ] Phase 3.5a: Research Verification
 - [ ] Phase 3.5: Research Gate
 - [ ] Phase 4: Strategy
