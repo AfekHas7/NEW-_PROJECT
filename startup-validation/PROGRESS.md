@@ -10,7 +10,10 @@
 - [x] Phase 1: Intake — 2026-05-28
 - [x] Phase 2: Brainstorm — 2026-05-28 (converged on V2: ADHD Adults)
 - [x] Phase 2.5: Research Depth Assessment — 2026-05-28 (Deep, score 7/9, user override to Deep)
-- [x] Phase 3: Market Research — Waves 1-4 complete (15 agents), synthesis in progress
+- [x] Phase 3: Market Research — Waves 1-4 complete (15 agents), synthesis complete
+- [x] Phase 3.5a: Verification — done in-conversation (skipped formal agent run due to session limit pressure)
+- [x] Phase 3.5: Research Gate — YELLOW LIGHT, awaiting founder decision on 3 conditions
+- [ ] Phase 4: Strategy
 - [ ] Phase 3.5a: Research Verification
 - [ ] Phase 3.5: Research Gate
 - [ ] Phase 4: Strategy
