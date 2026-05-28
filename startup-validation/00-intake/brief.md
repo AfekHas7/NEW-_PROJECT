@@ -130,6 +130,18 @@
 
 **עדיין רלוונטי:** organic-first עד 90 יום. ה-creator partnerships ועבודה ב-r/ADHDWomen / TikTok organic נשארות תוכנית הליבה.
 
+## עדכון אינטייק (סבב 5 — נסיעת ארה"ב + Strategy confirmations)
+
+**נסיעת ארה"ב:** המייסד נוסע לארה"ב בעוד ~חודש לכמה חודשים. **משנה דרמטית את אפשרויות הוולידציה ו-customer discovery.** 5-10 ראיונות פיזיים זמינים בעלות אפסית (DM ל-creators "coffee on me", r/ADHDWomen city posts, Meetup ADHD chapters, CHADD chapters). **משדרג את הציון הצפוי מ-6.5 ל-7.5 אם המייסד ינצל את הנסיעה לראיונות פיזיים.**
+
+**Beachhead clarification:** הוסכם — נשים late-diagnosed הן ה-marketing focus ב-90-180 ימים הראשונים, **לא product gatekeeping.** גברים שיגיעו דרך r/ADHD / TikTok generic = בונוס, לא יעד. הרחבה לגברים בפיצ'רים ב-month 4-6 כאשר MRR יציב.
+
+**ADHD disclosure:** המייסד מאשר פרסום פומבי שיש לו ADHD. זה ה-credibility ה-#1 שלו, ובלי זה ה-positioning נחלש דרסטית.
+
+**Creator strategy adjustment:** במקום $1,500 ל-Tracy Otsuka בלבד — פיזור: $600-800 ל-Kristen Carder pod + $300-500 ל-ADDitude newsletter + $0 cash ל-30-50 free annual subs ל-micro-creators. Tracy בלבד אם MRR מאפשר ב-month 2-3 מ-reinvestment.
+
+**WWDC June 8 deferral:** מאושר. ה-app גם ככה לא מוכן, ויש ADHD adaptations לעשות.
+
 ---
 
 ## Sources
