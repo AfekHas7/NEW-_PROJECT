@@ -15,7 +15,8 @@
 - [x] Phase 3.5: Research Gate — YELLOW LIGHT, conditional go (founder approved with lightweight signal collection replacing live interviews; reinvestment policy noted)
 - [x] Phase 4: Strategy — 2026-05-28 (Lean Canvas + Positioning + Value Prop + Business Model + GTM)
 - [x] Phase 5: Brand — 2026-05-28 (Mission/Vision/Values + Tone of Voice + Brand Personality)
-- [ ] Phase 6: Product — in progress
+- [x] Phase 6: Product — 2026-05-28 (MVP Definition + Feature Prioritization + User Journey)
+- [ ] Phase 7: Financial — in progress
 - [ ] Phase 3.5a: Research Verification
 - [ ] Phase 3.5: Research Gate
 - [ ] Phase 4: Strategy
