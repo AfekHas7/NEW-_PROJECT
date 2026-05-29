@@ -11,9 +11,13 @@
 ## Phase Checklist
 
 - [x] **Phase 1: Intake** — `00-intake/brief.md` (2 סבבי שאלות + carryover מ-Planny)
-- [ ] **Phase 2: Brainstorm** — `00-intake/brainstorm.md` (כולל B2C-vs-B2B variations)
-- [ ] **Phase 2.5: Research Depth** — Deep (נעול ע"י המייסד)
-- [ ] **Phase 3: Market Research** (4 waves) → `01-discovery/`
+- [x] **Phase 2: Brainstorm** — `00-intake/brainstorm.md` (כולל B2C-vs-B2B variations)
+- [x] **Phase 2.5: Research Depth** — Deep (נעול ע"י המייסד)
+- [~] **Phase 3: Market Research** (4 waves) → `01-discovery/`
+  - [x] Wave 1 (market-size, trends, regulatory, adjacent) ✅
+  - [x] Wave 2 (direct, indirect, GTM, emerging competitors) ✅
+  - [~] Wave 3 (customer-voice, demand, audience, pricing) — running
+  - [ ] Wave 4 (distribution, geographic, partnerships)
 - [ ] **Phase 3.5a: Verification** → `01-discovery/verification-report.md`
 - [ ] **Phase 3.5: Research Gate** → `01-discovery/research-gate.md`
 - [ ] **Phase 4: Strategy** → `02-strategy/`
