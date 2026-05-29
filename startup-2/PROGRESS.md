@@ -16,7 +16,9 @@
 - [x] **Phase 3: Market Research** (4 waves, 15 agents) → `01-discovery/` ✅
   - [x] Wave 1-4 (all 15 raw files) ✅
   - [x] Synthesis: 5 deliverables (market-analysis, competitor-landscape, target-audience, industry-trends, confidence-dashboard) ✅
-- [~] **Phase 3.5a: Verification** → `01-discovery/verification-report.md` — running
+- [x] **Phase 3.5a: Verification** → `01-discovery/verification-report.md` (2 critical fixed) ✅
+- [x] **Phase 3.5: Research Gate** → `01-discovery/research-gate.md` — **YELLOW-RED ~4.5/10** ✅
+  - המייסד בחר: **להשלים את כל ה-phases** על מודל B2B white-label (השוואה מלאה מול Planny)
 - [ ] **Phase 3.5: Research Gate** → `01-discovery/research-gate.md`
 - [ ] **Phase 4: Strategy** → `02-strategy/`
 - [ ] **Phase 5: Brand** → `03-brand/`
