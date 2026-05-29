@@ -286,9 +286,9 @@ Before starting Day 1:
 
 ## Next Steps After Reading This
 
-1. Read the scorecard (`startup-validation/06-validation/scorecard.md`)
-2. Read the validation playbook (`startup-validation/06-validation/validation-playbook.md`)
-3. Read the experiment design (`startup-validation/06-validation/experiment-design.md`) — has all copy templates
+1. Read the scorecard (`planny/06-validation/scorecard.md`)
+2. Read the validation playbook (`planny/06-validation/validation-playbook.md`)
+3. Read the experiment design (`planny/06-validation/experiment-design.md`) — has all copy templates
 4. **Start Day 1 tomorrow (2026-05-29).**
 
 You have everything you need. Go.

@@ -128,51 +128,51 @@ Planny הוא מתכנן שבועי מבוסס AI לאפליקציית מובי�
 ## Document Index
 
 ### 00-intake/
-- [`brief.md`](startup-validation/00-intake/brief.md) — Full intake with founder rounds 1-5
-- [`brainstorm.md`](startup-validation/00-intake/brainstorm.md) — 8 variations, V2 selected (ADHD Adults)
+- [`brief.md`](planny/00-intake/brief.md) — Full intake with founder rounds 1-5
+- [`brainstorm.md`](planny/00-intake/brainstorm.md) — 8 variations, V2 selected (ADHD Adults)
 
 ### 01-discovery/ (Phase 3 — Research)
-- [`market-analysis.md`](startup-validation/01-discovery/market-analysis.md) — TAM/SAM/SOM + timing
-- [`competitor-landscape.md`](startup-validation/01-discovery/competitor-landscape.md) — 8+ competitors deep-dive
-- [`target-audience.md`](startup-validation/01-discovery/target-audience.md) — Maya persona full
-- [`industry-trends.md`](startup-validation/01-discovery/industry-trends.md) — Timing scorecard
-- [`confidence-dashboard.md`](startup-validation/01-discovery/confidence-dashboard.md) — 60+ claims rated
-- [`research-gate.md`](startup-validation/01-discovery/research-gate.md) — Initial verdict (6.5/10 YELLOW)
-- [`raw/`](startup-validation/01-discovery/raw/) — 15 raw research files
+- [`market-analysis.md`](planny/01-discovery/market-analysis.md) — TAM/SAM/SOM + timing
+- [`competitor-landscape.md`](planny/01-discovery/competitor-landscape.md) — 8+ competitors deep-dive
+- [`target-audience.md`](planny/01-discovery/target-audience.md) — Maya persona full
+- [`industry-trends.md`](planny/01-discovery/industry-trends.md) — Timing scorecard
+- [`confidence-dashboard.md`](planny/01-discovery/confidence-dashboard.md) — 60+ claims rated
+- [`research-gate.md`](planny/01-discovery/research-gate.md) — Initial verdict (6.5/10 YELLOW)
+- [`raw/`](planny/01-discovery/raw/) — 15 raw research files
 
 ### 02-strategy/ (Phase 4)
-- [`lean-canvas.md`](startup-validation/02-strategy/lean-canvas.md) — 9 blocks
-- [`value-proposition.md`](startup-validation/02-strategy/value-proposition.md) — VPC with 26 jobs / 15 pains / 27 gains
-- [`business-model.md`](startup-validation/02-strategy/business-model.md) — Unit economics + scenarios
-- [`positioning.md`](startup-validation/02-strategy/positioning.md) — April Dunford framework
-- [`go-to-market.md`](startup-validation/02-strategy/go-to-market.md) — 90-day plan with 3 WWDC launch versions
+- [`lean-canvas.md`](planny/02-strategy/lean-canvas.md) — 9 blocks
+- [`value-proposition.md`](planny/02-strategy/value-proposition.md) — VPC with 26 jobs / 15 pains / 27 gains
+- [`business-model.md`](planny/02-strategy/business-model.md) — Unit economics + scenarios
+- [`positioning.md`](planny/02-strategy/positioning.md) — April Dunford framework
+- [`go-to-market.md`](planny/02-strategy/go-to-market.md) — 90-day plan with 3 WWDC launch versions
 
 ### 03-brand/ (Phase 5)
-- [`mission-vision-values.md`](startup-validation/03-brand/mission-vision-values.md) — Anti-shame manifesto
-- [`tone-of-voice.md`](startup-validation/03-brand/tone-of-voice.md) — 4 pillars + 8 writing samples
-- [`brand-personality.md`](startup-validation/03-brand/brand-personality.md) — Caregiver + Sage archetype
+- [`mission-vision-values.md`](planny/03-brand/mission-vision-values.md) — Anti-shame manifesto
+- [`tone-of-voice.md`](planny/03-brand/tone-of-voice.md) — 4 pillars + 8 writing samples
+- [`brand-personality.md`](planny/03-brand/brand-personality.md) — Caregiver + Sage archetype
 
 ### 04-product/ (Phase 6)
-- [`mvp-definition.md`](startup-validation/04-product/mvp-definition.md) — 10 must-haves, 5-7 weeks build
-- [`feature-prioritization.md`](startup-validation/04-product/feature-prioritization.md) — RICE order, 30 features
-- [`user-journey.md`](startup-validation/04-product/user-journey.md) — 7 phases, Aha at <90s
+- [`mvp-definition.md`](planny/04-product/mvp-definition.md) — 10 must-haves, 5-7 weeks build
+- [`feature-prioritization.md`](planny/04-product/feature-prioritization.md) — RICE order, 30 features
+- [`user-journey.md`](planny/04-product/user-journey.md) — 7 phases, Aha at <90s
 
 ### 05-financial/ (Phase 7)
-- [`revenue-model.md`](startup-validation/05-financial/revenue-model.md) — Pricing + 12mo + sensitivity
-- [`cost-structure.md`](startup-validation/05-financial/cost-structure.md) — Fixed/variable/one-time
-- [`projections.md`](startup-validation/05-financial/projections.md) — 4 scenarios + 3-year + funding
+- [`revenue-model.md`](planny/05-financial/revenue-model.md) — Pricing + 12mo + sensitivity
+- [`cost-structure.md`](planny/05-financial/cost-structure.md) — Fixed/variable/one-time
+- [`projections.md`](planny/05-financial/projections.md) — 4 scenarios + 3-year + funding
 
 ### 06-validation/ (Phase 8)
-- [`validation-playbook.md`](startup-validation/06-validation/validation-playbook.md) — 13 experiments
-- [`risk-analysis.md`](startup-validation/06-validation/risk-analysis.md) — 60 risks, 17 High-Priority
-- [`assumptions-tracker.md`](startup-validation/06-validation/assumptions-tracker.md) — 25 assumptions tracked
-- [`experiment-design.md`](startup-validation/06-validation/experiment-design.md) — Top 3 with templates
-- [`kill-criteria.md`](startup-validation/06-validation/kill-criteria.md) — 7 specific thresholds
-- [`scorecard.md`](startup-validation/06-validation/scorecard.md) — **FINAL VERDICT 6.4/10**
+- [`validation-playbook.md`](planny/06-validation/validation-playbook.md) — 13 experiments
+- [`risk-analysis.md`](planny/06-validation/risk-analysis.md) — 60 risks, 17 High-Priority
+- [`assumptions-tracker.md`](planny/06-validation/assumptions-tracker.md) — 25 assumptions tracked
+- [`experiment-design.md`](planny/06-validation/experiment-design.md) — Top 3 with templates
+- [`kill-criteria.md`](planny/06-validation/kill-criteria.md) — 7 specific thresholds
+- [`scorecard.md`](planny/06-validation/scorecard.md) — **FINAL VERDICT 6.4/10**
 
 ### Root
 - [`action-plan-30-days.md`](action-plan-30-days.md) — Week-by-week starting 2026-05-29
-- [`startup-validation/PROGRESS.md`](startup-validation/PROGRESS.md) — Phase tracker
+- [`planny/PROGRESS.md`](planny/PROGRESS.md) — Phase tracker
 
 ---
 

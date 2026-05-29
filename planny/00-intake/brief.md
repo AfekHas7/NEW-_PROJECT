@@ -1,7 +1,7 @@
 # Intake Brief — Planny
 
 **Phase:** Phase 1 — Intake
-**Project:** startup-validation (Planny)
+**Project:** planny (Planny)
 **Date:** 2026-05-28
 **Confidence:** Medium (intake is founder-reported, not yet validated against external data)
 
