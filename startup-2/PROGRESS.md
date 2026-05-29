@@ -20,12 +20,13 @@
 - [x] **Phase 3.5: Research Gate** → `01-discovery/research-gate.md` — **YELLOW-RED ~4.5/10** ✅
   - המייסד בחר: **להשלים את כל ה-phases** על מודל B2B white-label (השוואה מלאה מול Planny)
 - [ ] **Phase 3.5: Research Gate** → `01-discovery/research-gate.md`
-- [ ] **Phase 4: Strategy** → `02-strategy/`
-- [ ] **Phase 5: Brand** → `03-brand/`
-- [ ] **Phase 6: Product** → `04-product/`
-- [ ] **Phase 7: Financial** → `05-financial/`
-- [ ] **Phase 8: Validation** → `06-validation/` (כולל scorecard להשוואה)
-- [ ] **Final:** `README.md` + `action-plan-30-days.md` + Final Assessment Dashboard
+- [x] **Phase 4: Strategy** → `02-strategy/` (5 files, B2B white-label) ✅
+- [x] **Phase 5: Brand** → `03-brand/` (3 files) ✅
+- [x] **Phase 6: Product** → `04-product/` (3 files) ✅
+- [x] **Phase 7: Financial** → `05-financial/` (3 files) ✅
+- [x] **Phase 8: Validation** → `06-validation/` (6 files + scorecard **4.3/10 NO-GO**) ✅
+- [x] **Planny comparison table filled** (planny scorecard: 6.4 vs 4.3) ✅
+- [~] **Final:** `README.md` + `action-plan-30-days.md` + Dashboard — writing
 
 ---
 
