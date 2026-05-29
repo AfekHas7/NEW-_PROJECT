@@ -26,7 +26,14 @@
 - [x] **Phase 7: Financial** → `05-financial/` (3 files) ✅
 - [x] **Phase 8: Validation** → `06-validation/` (6 files + scorecard **4.3/10 NO-GO**) ✅
 - [x] **Planny comparison table filled** (planny scorecard: 6.4 vs 4.3) ✅
-- [~] **Final:** `README.md` + `action-plan-30-days.md` + Dashboard — writing
+- [x] **Final:** `README.md` + `action-plan-30-days.md` + Dashboard ✅
+
+---
+
+## ✅ VALIDATION COMPLETE — 2026-05-29
+**Final Score: 4.3/10 — NO-GO במתכונת הנוכחית** (conditional רק אם 3 gates עוברים).
+**Apples-to-apples: Planny 6.4 > startup-2 4.3 (מנצח 6/7 ממדים).**
+Raw research זמין ב-`01-discovery/raw/` (15 קבצים).
 
 ---
 
