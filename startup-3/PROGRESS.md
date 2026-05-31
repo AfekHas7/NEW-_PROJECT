@@ -17,8 +17,8 @@
 - [ ] **Phase 2: Brainstorm** — `00-intake/brainstorm.md`
 - [ ] **Phase 2.5: Research Depth** — Deep (נעול ע"י המייסד)
 - [ ] **Phase 3: Market Research** (4 waves, 15 agents) → `01-discovery/`
-  - [ ] Wave 1 (A1 market, A2 trends, A3 regulatory, A4 adjacent)
-  - [ ] Wave 2 (B1 direct, B2 indirect, B3 GTM, B4 emerging)
+  - [x] Wave 1 (A1 market, A2 trends, A3 regulatory, A4 adjacent) ✅
+  - [~] Wave 2 (B1 direct, B2 indirect, B3 GTM, B4 emerging) — running
   - [ ] Wave 3 (C1 voice, C2 demand, C3 audience, C4 pricing)
   - [ ] Wave 4 (D1 distribution, D2 geographic, D3 partnerships)
   - [ ] Synthesis: 5 deliverables
@@ -48,6 +48,12 @@
 3. **Unit economics** — עלות יועץ ISO 9001 בפועל (anchor) + כמה שעות פיקוח/לקוח (מנוף המומחה).
 4. **גודל שוק** — # תעודות ISO 9001 בישראל + עולמי (ISO Survey), # הסמכות חדשות/חידושים, גודל שוק הייעוץ/compliance-automation.
 5. **first-time vs recertification** — WTP, retention על מנוי, האנונה.
+
+### Wave 1 findings (2026-05-31)
+- **Regulatory (existential): NOT killed.** No rule vs AI/3rd-party-prepared QMS docs. Hard line = impartiality (ISO 17021) — preparer ≠ certifier. **The pivot:** value must be "managed implementation → real operating evidence", not "doc generation" (Stage-2 audit tests if system actually operates; ~3mo records). IAF→GLOBAC (Jan 2026). Privacy Amendment 13 = solvable build cost.
+- **Market:** Global TAM ~$5-6B/yr; Israel SAM ~$5-7M/yr (~2,000 certs, ~1.4%/yr — small beachhead); Y1 SOM ~$130-270k (25-50 clients). ACVs: $6-8k first-time, $2-3k/yr maintenance, $3.5-5k recert. Expert leverage ~8-15h/first-time client → dozens feasible IFF AI docs good enough to review-not-write.
+- **Trends:** YC AI-native-services thesis confirmed. Incumbents (Vanta $4.15B/~$300M ARR, Drata ~$98M ARR) ignore ISO 9001 = whitespace. ~12-24mo window. Labor vacuum (-17% auditors since 2020). Trust = central GTM risk → human-in-the-loop mandatory, pure-autonomy messaging fails.
+- **Adjacent:** ISO 9001 whitespace confirmed; ISO 42001 (AI mgmt) standout on-brand whitespace; IMS cross-sell moat (60-70% doc reuse across 9001/14001/45001/27001/42001). 13485 high-value but high-risk, defer.
 
 ### Environment
 - Agent tool זמין → spawn research subagents per wave (Deep = 15 agents).
