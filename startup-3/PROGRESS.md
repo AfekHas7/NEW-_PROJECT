@@ -14,9 +14,9 @@
 ## Phase Checklist
 
 - [x] **Phase 1: Intake** — `00-intake/brief.md` (delta round + carryover משני הקודמים)
-- [ ] **Phase 2: Brainstorm** — `00-intake/brainstorm.md`
-- [ ] **Phase 2.5: Research Depth** — Deep (נעול ע"י המייסד)
-- [ ] **Phase 3: Market Research** (4 waves, 15 agents) → `01-discovery/`
+- [x] **Phase 2: Brainstorm** — `00-intake/brainstorm.md` ✅
+- [x] **Phase 2.5: Research Depth** — Deep (נעול ע"י המייסד) ✅
+- [x] **Phase 3: Market Research** (4 waves, 15 agents) → `01-discovery/` ✅
   - [x] Wave 1 (A1 market, A2 trends, A3 regulatory, A4 adjacent) ✅
   - [x] Wave 2 (B1 direct, B2 indirect, B3 GTM, B4 emerging) ✅
   - [x] Wave 3 (C1 voice, C2 demand, C3 audience, C4 pricing) ✅
@@ -25,8 +25,8 @@
 - [x] **Phase 3.5a: Verification** → `01-discovery/verification-report.md` (Pass with Warnings) ✅
 - [x] **Phase 3.5: Research Gate** → `01-discovery/research-gate.md` — **YELLOW-GREEN ~6.0-6.5** ✅
 - [x] **Phase 4: Strategy** → `02-strategy/` (5 files) ✅
-- [ ] **Phase 5: Brand** → `03-brand/` (3 files)
-- [ ] **Phase 6: Product** → `04-product/` (3 files)
+- [x] **Phase 5: Brand** → `03-brand/` (3 files) ✅
+- [x] **Phase 6: Product** → `04-product/` (3 files) ✅
 - [ ] **Phase 7: Financial** → `05-financial/` (3 files)
 - [ ] **Phase 8: Validation** → `06-validation/` (6 files + scorecard)
 - [ ] **Planny comparison table filled** (Startup 3 column)
