@@ -19,8 +19,8 @@
 - [ ] **Phase 3: Market Research** (4 waves, 15 agents) → `01-discovery/`
   - [x] Wave 1 (A1 market, A2 trends, A3 regulatory, A4 adjacent) ✅
   - [x] Wave 2 (B1 direct, B2 indirect, B3 GTM, B4 emerging) ✅
-  - [~] Wave 3 (C1 voice, C2 demand, C3 audience, C4 pricing) — running
-  - [ ] Wave 4 (D1 distribution, D2 geographic, D3 partnerships)
+  - [x] Wave 3 (C1 voice, C2 demand, C3 audience, C4 pricing) ✅
+  - [~] Wave 4 (D1 distribution, D2 geographic, D3 partnerships) — running
   - [ ] Synthesis: 5 deliverables
 - [ ] **Phase 3.5a: Verification** → `01-discovery/verification-report.md`
 - [ ] **Phase 3.5: Research Gate** → `01-discovery/research-gate.md`
@@ -61,6 +61,12 @@
 - **Threat = convergence, not head-on.** Funded AI-compliance (Delve $32M, Comp AI, Vanta MSP) skip 9001. **Scytale (Israeli AI GRC, 27001) = #1 danger** — adding 9001+managed tier = AuditPilot. Model is a copyable YC pattern (Panacea/FDA template) → moat = vertical+distribution+ops+data, NOT AI/first-mover. Window REAL but SOFT ~12-18mo.
 - **Substitutes:** DIY/ChatGPT commoditize ~30% (drafts) but fail audits (paperwork ≠ operating records) → implementation+evidence = defensible 70%. Qualio AI agents = platform risk to monitor. Sweet spot: below consultant ($2-10k), above DIY floor.
 - **GTM:** demand trigger-driven (public-tender threshold תנאי סף #1, then big-customer/export). CBs CAN'T refer consultants (17021). Clone Vanta Hebrew SEO (trigger keywords). Channels ranked: (1) Hebrew SEO, (2) father's auditor network, (3) tender-intercept. Trust = make-or-break → named-auditor + "audit-ready or we fix it free" guarantee.
+
+### Wave 3 findings (2026-05-31)
+- **Demand: MEDIUM-STRONG.** WTP validated (maintenance STRONG, matches $2-3k/yr ACV). AI-compliance buying proven in adjacency (Vanta $300M ARR/~16k cust). Contradicting: Western 9001 decline (US/DE/FR), Asia-concentrated growth, 9001 lacks Vanta's urgent triggers, Israel SMB base -4k. Tailwind: **Sept 2026 ISO 9001 revision** (transition cycle + AI/digital recordkeeping emphasis) lands in launch window.
+- **Customer voice:** loudest pains = cost shock + "just paperwork"; demand coerced & resented; consultant complaint = "template-and-disappear"; deepest signal = paper-vs-practice ("living proof, not untouched binders"); maintenance = recurring pain = retention hook; trust = gating. Israeli verbatim gap (vendor marketing only, 8/26 true verbatim) → flag in confidence dashboard.
+- **Personas:** P1 "Ronen" forced-in ops mgr, 15-50p mfr, tender-driven, buys deadline-met+risk-removed (sharpest beachhead). P2 "Galit" growth owner/CEO, export/credibility, better LTV. Decision criteria: certainty-of-passing > time > fixed price > human accountability > minimal disruption.
+- **Pricing:** CB audit floor unavoidable ($3-5k Y1, $1-3k/yr). Barbell + middle gap: DIY ~$400-4k | consultant $6-8k | full-service $15-30k (9001Simplified DIY $3,990 vs DFY $17,990 → ~$14k = AI-compressible). AuditsReady $1.5-5k sets AI price. **Recommended: Core ₪12-15k / Pro $4.9-6.9k / Lite $990-1,490 + maintenance $1,200-2,400/yr; 5yr LTV ~$10,700/logo (~3x first-yr).** "Half the cost" TRUE for prep fee (~40-55%) NOT total (CB floor → ~25-40%). Guarantee = category norm (need one).
 
 ### Environment
 - Agent tool זמין → spawn research subagents per wave (Deep = 15 agents).
