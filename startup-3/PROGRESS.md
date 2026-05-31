@@ -28,9 +28,17 @@
 - [x] **Phase 5: Brand** → `03-brand/` (3 files) ✅
 - [x] **Phase 6: Product** → `04-product/` (3 files) ✅
 - [x] **Phase 7: Financial** → `05-financial/` (3 files) ✅
-- [ ] **Phase 8: Validation** → `06-validation/` (6 files + scorecard)
-- [ ] **Planny comparison table filled** (Startup 3 column)
-- [ ] **Final:** `README.md` + `action-plan-30-days.md` + Dashboard
+- [x] **Phase 8: Validation** → `06-validation/` (6 files + scorecard **6.1/10 CONDITIONAL GO**) ✅
+- [x] **Planny comparison table filled** (Startup 3 column: 7/6/5/6/7/6/6 → 6.1) ✅
+- [x] **Final:** `README.md` + `action-plan-30-days.md` + Dashboard ✅
+
+---
+
+## ✅ VALIDATION COMPLETE — 2026-05-31
+**Final Score: 6.1/10 — CONDITIONAL GO.**
+**Apples-to-apples: Planny 6.4 > AuditPilot 6.1 > startup-2 4.3.** photo-finish מול Planny (מנצח Market 6-5; מפסיד Problem 7-8, CompAdv 5-6, FMF 6-8; שווה 3). מנצח startup-2 ב-6/7.
+**ה-make-or-break: POC מנוף-מומחה** (≤15h/לקוח?) — זול, ~שבועיים, עם האב, אפס קוד. 5 הנחות existential untested.
+Raw research (15 files) ב-`01-discovery/raw/`.
 
 ---
 

@@ -220,18 +220,20 @@ Planny הוא רעיון טוב מספיק כדי להצדיק את ההשקה �
 
 When the founder applies this same scorecard to Startup 2 and Startup 3:
 
-| Criterion | Planny Score | Startup 2 (RSVP-AI) | Startup 3 |
+| Criterion | Planny Score | Startup 2 (RSVP-AI) | Startup 3 (AuditPilot) |
 |-----------|--------------|-----------|-----------|
-| Problem severity | 8 | 6 | — |
-| Market size | 5 | 4 | — |
-| Competitive advantage | 6 | 2 | — |
-| Feasibility | 6 | 6 | — |
-| Business model | 7 | 4 | — |
-| Founder-market fit | 8 | 4 | — |
-| Timing | 6 | 5 | — |
-| **Overall** | **6.4 / 10** | **4.3 / 10** | **—** |
+| Problem severity | 8 | 6 | 7 |
+| Market size | 5 | 4 | 6 |
+| Competitive advantage | 6 | 2 | 5 |
+| Feasibility | 6 | 6 | 6 |
+| Business model | 7 | 4 | 7 |
+| Founder-market fit | 8 | 4 | 6 |
+| Timing | 6 | 5 | 6 |
+| **Overall** | **6.4 / 10** | **4.3 / 10** | **6.1 / 10** |
 
 > **Startup 2 (RSVP-AI) filled 2026-05-29.** ראה `startup-2/06-validation/scorecard.md`. Verdict: NO-GO במתכונת הנוכחית. **Planny מנצח 6.4 מול 4.3, ב-6 מתוך 7 ממדים.** הפער הגדול: Competitive advantage (6 מול 2 — ל-Planny onliness אמיתי, ל-startup-2 אין חפיר) ו-Founder-market fit (8 מול 4 — ADHD non-replicable מול "מפיק לשעבר"). זה מאשר את התחזית שבסעיף האזהרה למטה: FMF הוא ה-amplifier — startup-2 הוא market-driven והמייסד לא חי את הכאב.
+
+> **Startup 3 (AuditPilot — AI-native ISO 9001 audit-prep service) filled 2026-05-31.** ראה `startup-3/06-validation/scorecard.md`. Verdict: **CONDITIONAL GO (6.1).** **photo-finish מול Planny (6.4) — מנצח startup-2 בפער ברור, מפסיד ל-Planny בפער דק (0.3).** AuditPilot מנצח את Planny ב-**Market size (6 מול 5** — TAM גלובלי $5-6B + recurring annuity + ARR ceiling גבוה יותר**)**, שווה ב-Feasibility/Business model/Timing, ומפסיד ב-**Problem (7-8), Competitive advantage (5-6 — אין ל-AuditPilot moat טכני), ו-FMF (6-8).** ה-FMF הוא שוב המכריע: ב-AuditPilot ה-domain expertise **שאול מהאב** (שותף-אקוויטי-מומחה — נכס אמיתי, הרבה מעל startup-2, אבל single-point-of-dependency ולא lived-pain של המייסד). **המסקנה מחזקת שוב את כלל ה-FMF-amplifier: AuditPilot הוא ה-business הטוב יותר (מודל recurring, TAM גדול, existential רגולטורי נפתר), אבל Planny הוא ה-founder-fit הטוב יותר — ובטייברייק FMF+Timing (14 מול 12) Planny מנצח.** האזהרה הקריטית ל-AuditPilot: ה-6.1 שביר יותר מ-6.4 (5 הנחות existential untested, מנוף-מומחה=#1), אך ה-validation זול/מהיר (~5-6 שב', ~$0-350) — POC מנוף-מומחה יכול להעלותו ל-6.5+ או להפילו מתחת ל-5.
 
 **Decision rule:** Pick the highest-scored. If tied: pick the one with highest Founder-market fit + Timing combined. If still tied: pick the one closest to launch (lowest opportunity cost — less founder time at risk).
 
