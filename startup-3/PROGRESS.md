@@ -18,8 +18,8 @@
 - [ ] **Phase 2.5: Research Depth** — Deep (נעול ע"י המייסד)
 - [ ] **Phase 3: Market Research** (4 waves, 15 agents) → `01-discovery/`
   - [x] Wave 1 (A1 market, A2 trends, A3 regulatory, A4 adjacent) ✅
-  - [~] Wave 2 (B1 direct, B2 indirect, B3 GTM, B4 emerging) — running
-  - [ ] Wave 3 (C1 voice, C2 demand, C3 audience, C4 pricing)
+  - [x] Wave 2 (B1 direct, B2 indirect, B3 GTM, B4 emerging) ✅
+  - [~] Wave 3 (C1 voice, C2 demand, C3 audience, C4 pricing) — running
   - [ ] Wave 4 (D1 distribution, D2 geographic, D3 partnerships)
   - [ ] Synthesis: 5 deliverables
 - [ ] **Phase 3.5a: Verification** → `01-discovery/verification-report.md`
@@ -54,6 +54,13 @@
 - **Market:** Global TAM ~$5-6B/yr; Israel SAM ~$5-7M/yr (~2,000 certs, ~1.4%/yr — small beachhead); Y1 SOM ~$130-270k (25-50 clients). ACVs: $6-8k first-time, $2-3k/yr maintenance, $3.5-5k recert. Expert leverage ~8-15h/first-time client → dozens feasible IFF AI docs good enough to review-not-write.
 - **Trends:** YC AI-native-services thesis confirmed. Incumbents (Vanta $4.15B/~$300M ARR, Drata ~$98M ARR) ignore ISO 9001 = whitespace. ~12-24mo window. Labor vacuum (-17% auditors since 2020). Trust = central GTM risk → human-in-the-loop mandatory, pure-autonomy messaging fails.
 - **Adjacent:** ISO 9001 whitespace confirmed; ISO 42001 (AI mgmt) standout on-brand whitespace; IMS cross-sell moat (60-70% doc reuse across 9001/14001/45001/27001/42001). 13485 high-value but high-risk, defer.
+
+### Wave 2 findings (2026-05-31)
+- **No one occupies the exact wedge** (AI-native × full done-for-you × ISO 9001 × Israel/Hebrew), ~85% public confidence. Closest: **AuditsReady** (US, $1.5-5k, AI+engineer, but docs-only/mfg-only). Human-led done-for-you anchors: 9001Simplified ($15-30k), QSE Academy (guarantee). Sleeper: Advisera Experta (AI copilot, assistive).
+- **Zero Israeli ISO 9001 consultants use AI** — local whitespace; quote-only, 2wk-2mo timelines.
+- **Threat = convergence, not head-on.** Funded AI-compliance (Delve $32M, Comp AI, Vanta MSP) skip 9001. **Scytale (Israeli AI GRC, 27001) = #1 danger** — adding 9001+managed tier = AuditPilot. Model is a copyable YC pattern (Panacea/FDA template) → moat = vertical+distribution+ops+data, NOT AI/first-mover. Window REAL but SOFT ~12-18mo.
+- **Substitutes:** DIY/ChatGPT commoditize ~30% (drafts) but fail audits (paperwork ≠ operating records) → implementation+evidence = defensible 70%. Qualio AI agents = platform risk to monitor. Sweet spot: below consultant ($2-10k), above DIY floor.
+- **GTM:** demand trigger-driven (public-tender threshold תנאי סף #1, then big-customer/export). CBs CAN'T refer consultants (17021). Clone Vanta Hebrew SEO (trigger keywords). Channels ranked: (1) Hebrew SEO, (2) father's auditor network, (3) tender-intercept. Trust = make-or-break → named-auditor + "audit-ready or we fix it free" guarantee.
 
 ### Environment
 - Agent tool זמין → spawn research subagents per wave (Deep = 15 agents).
