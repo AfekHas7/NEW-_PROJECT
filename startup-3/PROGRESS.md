@@ -20,10 +20,10 @@
   - [x] Wave 1 (A1 market, A2 trends, A3 regulatory, A4 adjacent) ✅
   - [x] Wave 2 (B1 direct, B2 indirect, B3 GTM, B4 emerging) ✅
   - [x] Wave 3 (C1 voice, C2 demand, C3 audience, C4 pricing) ✅
-  - [~] Wave 4 (D1 distribution, D2 geographic, D3 partnerships) — running
-  - [ ] Synthesis: 5 deliverables
-- [ ] **Phase 3.5a: Verification** → `01-discovery/verification-report.md`
-- [ ] **Phase 3.5: Research Gate** → `01-discovery/research-gate.md`
+  - [x] Wave 4 (D1 distribution, D2 geographic, D3 partnerships) ✅
+  - [x] Synthesis: 5 deliverables ✅
+- [x] **Phase 3.5a: Verification** → `01-discovery/verification-report.md` (Pass with Warnings) ✅
+- [x] **Phase 3.5: Research Gate** → `01-discovery/research-gate.md` — **YELLOW-GREEN ~6.0-6.5** ✅
 - [ ] **Phase 4: Strategy** → `02-strategy/` (5 files)
 - [ ] **Phase 5: Brand** → `03-brand/` (3 files)
 - [ ] **Phase 6: Product** → `04-product/` (3 files)
